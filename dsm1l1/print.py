@@ -1,1 +1,4 @@
-(print("hello world")
+print("hello world")
+print("my name is luigi")
+print("i love to code")
+print("the result 3 + 5 " ,3 + 5)
